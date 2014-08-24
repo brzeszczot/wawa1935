@@ -27,6 +27,10 @@ SMV::~SMV()
 
 void SMV::createUI()
 {
+	maLabel1 = new Label();
+	maLabel1->fillSpaceHorizontally();
+	maLabel1->setText("Wawa 1935");
+
 	mLayout = new VerticalLayout();
 	mLayout->fillSpaceHorizontally();
 	mLayout->wrapContentVertically();
@@ -49,6 +53,7 @@ void SMV::createUI()
 	//mList->fillSpaceHorizontally();
 	//mList->wrapContentVertically();
 
+	mLayout->addChild(maLabel1);
 	mLayout->addChild(mEditBox);
 	mLayout->addChild(mButton);
 	mLayout->addChild(maLabel);

@@ -21,7 +21,7 @@
 #define RED 0xff0000
 #define KM 12756.274
 #define PI 3.1415
-#define PATH "/mnt/sdcard/Download/smv_res/"
+#define PATH "/mnt/sdcard/Download/wawa1935_res/"
 #define CONF_FILE_NAME "conf.txt"
 #define MAX_DIRS 10
 #define MAX_DIR_NAME_LENGTH 64

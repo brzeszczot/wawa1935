@@ -16,7 +16,7 @@
 #include <string>
 
 #include "engine.hpp"
-#define PATH "/mnt/sdcard/Download/smv_res/"
+#define PATH "/mnt/sdcard/Download/wawa1935_res/"
 
 using namespace MAUtil;
 using namespace NativeUI;
@@ -43,6 +43,7 @@ class SMV: public Moblet, public ListViewListener, public ButtonListener
 		EditBox* mEditBox;
 		Button* mButton;
 		Label* maLabel;
+		Label* maLabel1;
 		VerticalLayout* mLayout;
 };
 

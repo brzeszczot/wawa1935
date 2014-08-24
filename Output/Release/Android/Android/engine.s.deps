@@ -1,0 +1,93 @@
+C:\MoSync\workspace\wawa1935\Output\Release\Android\Android\engine.s:  \
+ C:\MoSync\workspace\wawa1935\engine.cpp \
+  C:\MoSync\workspace\wawa1935\/engine.hpp c:/MoSync/include/ma.h \
+  c:/MoSync/include/maapi.h c:/MoSync/include/maapi_defs.h \
+  c:/MoSync/include/maxtoa.h c:/MoSync/include/newlib/stlport/string \
+  c:/MoSync/include/newlib/stlport/stl/_prolog.h \
+  c:/MoSync/include/newlib/stlport/stl/_cprolog.h \
+  c:/MoSync/include/newlib/stlport/stl/config/features.h \
+  c:/MoSync/include/newlib/stlport/stl/_stlport_version.h \
+  c:/MoSync/include/newlib/stlport/stl/config/user_config.h \
+  c:/MoSync/include/newlib/stlport/stl/config/compat.h \
+  c:/MoSync/include/newlib/stlport/stl/config/host.h \
+  c:/MoSync/include/newlib/stlport/stl/config/_system.h \
+  c:/MoSync/include/newlib/stlport/stl/config/_mapip.h \
+  c:/MoSync/include/newlib/stlport/stl/config/stl_mycomp.h \
+  c:/MoSync/include/newlib/stlport/stl/config/stl_confix.h \
+  c:/MoSync/include/newlib/stlport/stl/config/_native_headers.h \
+  c:/MoSync/include/newlib/stlport/stl/debug/_debug.h \
+  c:/MoSync/include/newlib/stlport/stl/_string.h \
+  c:/MoSync/include/newlib/stlport/stl/_alloc.h \
+  c:/MoSync/include/newlib/stlport/stl/_cstddef.h \
+  c:/MoSync/include/newlib/stlport/stddef.h \
+  c:/MoSync/include/newlib/stlport/../stddef.h \
+  c:/MoSync/include/newlib/newlib.h \
+  c:/MoSync/include/newlib/stlport/stl/_cstdlib.h \
+  c:/MoSync/include/newlib/stlport/stdlib.h \
+  c:/MoSync/include/newlib/stlport/../stdlib.h \
+  c:/MoSync/include/newlib/machine/ieeefp.h \
+  c:/MoSync/include/newlib/stlport/../_ansi.h \
+  c:/MoSync/include/newlib/sys/config.h \
+  c:/MoSync/include/newlib/sys/features.h \
+  c:/MoSync/include/newlib/sys/reent.h c:/MoSync/include/newlib/_ansi.h \
+  c:/MoSync/include/newlib/sys/_types.h \
+  c:/MoSync/include/newlib/machine/_types.h \
+  c:/MoSync/include/newlib/machine/_default_types.h \
+  c:/MoSync/include/newlib/sys/lock.h \
+  c:/MoSync/include/newlib/machine/stdlib.h \
+  c:/MoSync/include/newlib/alloca.h c:/MoSync/include/newlib/_ansi.h \
+  c:/MoSync/include/newlib/malloc.h \
+  c:/MoSync/include/newlib/machine/malloc.h \
+  c:/MoSync/include/newlib/stlport/stl/_cmath.h \
+  c:/MoSync/include/newlib/stlport/math.h \
+  c:/MoSync/include/newlib/stlport/../math.h \
+  c:/MoSync/include/newlib/stlport/stl/_cstring.h \
+  c:/MoSync/include/newlib/stlport/string.h \
+  c:/MoSync/include/newlib/stlport/../string.h \
+  c:/MoSync/include/newlib/sys/string.h \
+  c:/MoSync/include/newlib/stlport/using/cstring \
+  c:/MoSync/include/newlib/stlport/stl/_algobase.h \
+  c:/MoSync/include/newlib/stlport/climits c:/MoSync/include/limits.h \
+  c:/MoSync/include/newlib/stlport/stl/_pair.h \
+  c:/MoSync/include/newlib/stlport/stl/type_traits.h \
+  c:/MoSync/include/newlib/stlport/stl/type_manips.h \
+  c:/MoSync/include/newlib/stlport/stl/_move_construct_fwk.h \
+  c:/MoSync/include/newlib/stlport/stl/_iterator_base.h \
+  c:/MoSync/include/newlib/stlport/stl/_ptrs_specialize.h \
+  c:/MoSync/include/newlib/stlport/stl/_algobase.c \
+  c:/MoSync/include/newlib/stlport/stl/_function_base.h \
+  c:/MoSync/include/newlib/stlport/stl/_iterator.h \
+  c:/MoSync/include/newlib/stlport/stl/_new.h \
+  c:/MoSync/include/newlib/stlport/../new \
+  c:/MoSync/include/newlib/stlport/../macpp.h \
+  c:/MoSync/include/newlib/stlport/../new \
+  c:/MoSync/include/newlib/stlport/stl/_cstdio.h \
+  c:/MoSync/include/newlib/stlport/stdio.h \
+  c:/MoSync/include/newlib/stlport/../stdio.h \
+  c:/MoSync/include/newlib/stlport/stdarg.h \
+  c:/MoSync/include/newlib/stlport/../stdarg.h \
+  c:/MoSync/include/newlib/sys/types.h \
+  c:/MoSync/include/newlib/machine/types.h \
+  c:/MoSync/include/newlib/sys/stdio.h \
+  c:/MoSync/include/newlib/stlport/stl/_construct.h \
+  c:/MoSync/include/newlib/stlport/stl/_alloc.c \
+  c:/MoSync/include/newlib/stlport/stl/_string_fwd.h \
+  c:/MoSync/include/newlib/stlport/stl/_iosfwd.h \
+  c:/MoSync/include/newlib/stlport/stl/char_traits.h \
+  c:/MoSync/include/newlib/stlport/stl/_cwchar.h \
+  c:/MoSync/include/newlib/stlport/../wchar.h \
+  c:/MoSync/include/newlib/stlport/stl/_mbstate_t.h \
+  c:/MoSync/include/newlib/stlport/stl/_uninitialized.h \
+  c:/MoSync/include/newlib/stlport/stl/_string_base.h \
+  c:/MoSync/include/newlib/stlport/stl/_string_npos.h \
+  c:/MoSync/include/newlib/stlport/stl/_string_operators.h \
+  c:/MoSync/include/newlib/stlport/stl/_string.c \
+  c:/MoSync/include/newlib/stlport/stl/_ctraits_fns.h \
+  c:/MoSync/include/newlib/stlport/stl/_function.h \
+  c:/MoSync/include/newlib/stlport/stl/_function_adaptors.h \
+  c:/MoSync/include/newlib/stlport/stl/_range_errors.h \
+  c:/MoSync/include/newlib/stlport/stl/_range_errors.c \
+  c:/MoSync/include/newlib/stlport/stl/_string_hash.h \
+  c:/MoSync/include/newlib/stlport/stl/_hash_fun.h \
+  c:/MoSync/include/newlib/stlport/stl/_epilog.h \
+  c:/MoSync/include/newlib/stlport/stl/_config_compat_post.h

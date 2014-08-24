@@ -7,3 +7,10 @@ extern "C" int MAMain()
 	Moblet::run(new SMV());
 	return 0;
 }
+
+/*
+./adb shell
+su
+mount -o rw,remount rootfs /
+chmod 777 /mnt/sdcard
+ */

@@ -1,0 +1,181 @@
+C:\MoSync\workspace\wawa1935\Output\Release\Android\Android\main.s:  \
+ C:\MoSync\workspace\wawa1935\main.cpp \
+  C:\MoSync\workspace\wawa1935\/smv.hpp c:/MoSync/include/ma.h \
+  c:/MoSync/include/maapi.h c:/MoSync/include/maapi_defs.h \
+  c:/MoSync/include/mavsprintf.h c:/MoSync/include/maarg.h \
+  c:/MoSync/include/mastring.h c:/MoSync/include/ma.h \
+  c:/MoSync/include/mactype.h c:/MoSync/include/MAUtil/Moblet.h \
+  c:/MoSync/include/maassert.h c:/MoSync/include/MAUtil/Environment.h \
+  c:/MoSync/include/MAUtil/Vector.h \
+  c:/MoSync/include/MAUtil/ListenerSet.h \
+  c:/MoSync/include/NativeUI/Widgets.h \
+  c:/MoSync/include/NativeUI/ActivityIndicator.h \
+  c:/MoSync/include/NativeUI/Widget.h c:/MoSync/include/conprint.h \
+  c:/MoSync/include/mavsprintf.h c:/MoSync/include/MAUtil/String.h \
+  c:/MoSync/include/MAUtil/RefCounted.h c:/MoSync/include/MAUtil/Map.h \
+  c:/MoSync/include/MAUtil/Dictionary.h c:/MoSync/include/kazlib/dict.h \
+  c:/MoSync/include/limits.h c:/MoSync/include/MAUtil/collection_common.h \
+  c:/MoSync/include/MAUtil/Dictionary_impl.h \
+  c:/MoSync/include/MAUtil/Vector.h \
+  c:/MoSync/include/MAUtil/Environment.h c:/MoSync/include/MAUtil/util.h \
+  c:/MoSync/include/MAUtil/String.h c:/MoSync/include/IX_WIDGET.h \
+  c:/MoSync/include/NativeUI/WidgetUtil.h \
+  c:/MoSync/include/NativeUI/ActionBar.h \
+  c:/MoSync/include/NativeUI/Button.h \
+  c:/MoSync/include/NativeUI/TextWidget.h \
+  c:/MoSync/include/NativeUI/ButtonListener.h \
+  c:/MoSync/include/NativeUI/CameraPreview.h \
+  c:/MoSync/include/NativeUI/Camera.h \
+  c:/MoSync/include/NativeUI/CheckBox.h \
+  c:/MoSync/include/NativeUI/CheckBoxListener.h \
+  c:/MoSync/include/NativeUI/CustomPicker.h \
+  c:/MoSync/include/NativeUI/DatePicker.h \
+  c:/MoSync/include/NativeUI/DatePickerListener.h \
+  c:/MoSync/include/NativeUI/Dialog.h \
+  c:/MoSync/include/NativeUI/DialogListener.h \
+  c:/MoSync/include/NativeUI/EditBox.h \
+  c:/MoSync/include/NativeUI/EditBoxListener.h \
+  c:/MoSync/include/NativeUI/GLView.h \
+  c:/MoSync/include/NativeUI/GLViewListener.h \
+  c:/MoSync/include/NativeUI/HorizontalLayout.h \
+  c:/MoSync/include/NativeUI/Layout.h c:/MoSync/include/Ads/Banner.h \
+  c:/MoSync/include/NativeUI/Image.h \
+  c:/MoSync/include/NativeUI/ImageButton.h \
+  c:/MoSync/include/NativeUI/Label.h \
+  c:/MoSync/include/NativeUI/ListView.h \
+  c:/MoSync/include/NativeUI/ListViewItem.h \
+  c:/MoSync/include/NativeUI/ListViewSection.h \
+  c:/MoSync/include/NativeUI/Widget.h \
+  c:/MoSync/include/NativeUI/ListViewListener.h \
+  c:/MoSync/include/NativeUI/Map.h \
+  c:/MoSync/include/NativeUI/MapLocation.h \
+  c:/MoSync/include/NativeUI/Location.h \
+  c:/MoSync/include/NativeUI/MapPin.h \
+  c:/MoSync/include/NativeUI/MapPinListener.h \
+  c:/MoSync/include/NativeUI/MapRegion.h \
+  c:/MoSync/include/NativeUI/MapListener.h \
+  c:/MoSync/include/NativeUI/NavigationBar.h \
+  c:/MoSync/include/NativeUI/NavigationBarListener.h \
+  c:/MoSync/include/NativeUI/NumberPicker.h \
+  c:/MoSync/include/NativeUI/NumberPickerListener.h \
+  c:/MoSync/include/NativeUI/PanoramaView.h \
+  c:/MoSync/include/NativeUI/Screen.h \
+  c:/MoSync/include/NativeUI/ProgressBar.h \
+  c:/MoSync/include/NativeUI/RadioButton.h \
+  c:/MoSync/include/NativeUI/RadioButtonListener.h \
+  c:/MoSync/include/NativeUI/RadioGroup.h \
+  c:/MoSync/include/NativeUI/RadioGroupListener.h \
+  c:/MoSync/include/NativeUI/RatingBar.h \
+  c:/MoSync/include/NativeUI/RatingBarListener.h \
+  c:/MoSync/include/NativeUI/RelativeLayout.h \
+  c:/MoSync/include/NativeUI/ScreenListener.h \
+  c:/MoSync/include/NativeUI/SearchBar.h \
+  c:/MoSync/include/NativeUI/SearchBarListener.h \
+  c:/MoSync/include/NativeUI/Slider.h \
+  c:/MoSync/include/NativeUI/SliderListener.h \
+  c:/MoSync/include/NativeUI/StackScreen.h \
+  c:/MoSync/include/NativeUI/StackScreenListener.h \
+  c:/MoSync/include/NativeUI/TabScreen.h \
+  c:/MoSync/include/NativeUI/TabScreenListener.h \
+  c:/MoSync/include/NativeUI/TimePicker.h \
+  c:/MoSync/include/NativeUI/TimePickerListener.h \
+  c:/MoSync/include/NativeUI/ToggleButton.h \
+  c:/MoSync/include/NativeUI/ToggleButtonListener.h \
+  c:/MoSync/include/NativeUI/VerticalLayout.h \
+  c:/MoSync/include/NativeUI/VideoView.h \
+  c:/MoSync/include/NativeUI/VideoViewListener.h \
+  c:/MoSync/include/NativeUI/WebView.h \
+  c:/MoSync/include/NativeUI/WebViewListener.h \
+  c:/MoSync/include/NativeUI/WidgetManager.h \
+  c:/MoSync/include/NativeUI/WidgetEventListener.h \
+  c:/MoSync/include/NativeUI/WidgetUtil.h \
+  c:/MoSync/include/newlib/stlport/string \
+  c:/MoSync/include/newlib/stlport/stl/_prolog.h \
+  c:/MoSync/include/newlib/stlport/stl/_cprolog.h \
+  c:/MoSync/include/newlib/stlport/stl/config/features.h \
+  c:/MoSync/include/newlib/stlport/stl/_stlport_version.h \
+  c:/MoSync/include/newlib/stlport/stl/config/user_config.h \
+  c:/MoSync/include/newlib/stlport/stl/config/compat.h \
+  c:/MoSync/include/newlib/stlport/stl/config/host.h \
+  c:/MoSync/include/newlib/stlport/stl/config/_system.h \
+  c:/MoSync/include/newlib/stlport/stl/config/_mapip.h \
+  c:/MoSync/include/newlib/stlport/stl/config/stl_mycomp.h \
+  c:/MoSync/include/newlib/stlport/stl/config/stl_confix.h \
+  c:/MoSync/include/newlib/stlport/stl/config/_native_headers.h \
+  c:/MoSync/include/newlib/stlport/stl/debug/_debug.h \
+  c:/MoSync/include/newlib/stlport/stl/_string.h \
+  c:/MoSync/include/newlib/stlport/stl/_alloc.h \
+  c:/MoSync/include/newlib/stlport/stl/_cstddef.h \
+  c:/MoSync/include/newlib/stlport/stddef.h \
+  c:/MoSync/include/newlib/stlport/../stddef.h \
+  c:/MoSync/include/newlib/newlib.h \
+  c:/MoSync/include/newlib/stlport/stl/_cstdlib.h \
+  c:/MoSync/include/newlib/stlport/stdlib.h \
+  c:/MoSync/include/newlib/stlport/../stdlib.h \
+  c:/MoSync/include/newlib/machine/ieeefp.h \
+  c:/MoSync/include/newlib/stlport/../_ansi.h \
+  c:/MoSync/include/newlib/sys/config.h \
+  c:/MoSync/include/newlib/sys/features.h \
+  c:/MoSync/include/newlib/sys/reent.h c:/MoSync/include/newlib/_ansi.h \
+  c:/MoSync/include/newlib/sys/_types.h \
+  c:/MoSync/include/newlib/machine/_types.h \
+  c:/MoSync/include/newlib/machine/_default_types.h \
+  c:/MoSync/include/newlib/sys/lock.h \
+  c:/MoSync/include/newlib/machine/stdlib.h \
+  c:/MoSync/include/newlib/alloca.h c:/MoSync/include/newlib/_ansi.h \
+  c:/MoSync/include/newlib/malloc.h \
+  c:/MoSync/include/newlib/machine/malloc.h \
+  c:/MoSync/include/newlib/stlport/stl/_cmath.h \
+  c:/MoSync/include/newlib/stlport/math.h \
+  c:/MoSync/include/newlib/stlport/../math.h \
+  c:/MoSync/include/newlib/stlport/stl/_cstring.h \
+  c:/MoSync/include/newlib/stlport/string.h \
+  c:/MoSync/include/newlib/stlport/../string.h \
+  c:/MoSync/include/newlib/sys/string.h \
+  c:/MoSync/include/newlib/stlport/using/cstring \
+  c:/MoSync/include/newlib/stlport/stl/_algobase.h \
+  c:/MoSync/include/newlib/stlport/climits \
+  c:/MoSync/include/newlib/stlport/stl/_pair.h \
+  c:/MoSync/include/newlib/stlport/stl/type_traits.h \
+  c:/MoSync/include/newlib/stlport/stl/type_manips.h \
+  c:/MoSync/include/newlib/stlport/stl/_move_construct_fwk.h \
+  c:/MoSync/include/newlib/stlport/stl/_iterator_base.h \
+  c:/MoSync/include/newlib/stlport/stl/_ptrs_specialize.h \
+  c:/MoSync/include/newlib/stlport/stl/_algobase.c \
+  c:/MoSync/include/newlib/stlport/stl/_function_base.h \
+  c:/MoSync/include/newlib/stlport/stl/_iterator.h \
+  c:/MoSync/include/newlib/stlport/stl/_new.h \
+  c:/MoSync/include/newlib/stlport/../new \
+  c:/MoSync/include/newlib/stlport/../macpp.h \
+  c:/MoSync/include/newlib/stlport/../new \
+  c:/MoSync/include/newlib/stlport/stl/_cstdio.h \
+  c:/MoSync/include/newlib/stlport/stdio.h \
+  c:/MoSync/include/newlib/stlport/../stdio.h \
+  c:/MoSync/include/newlib/stlport/stdarg.h \
+  c:/MoSync/include/newlib/stlport/../stdarg.h \
+  c:/MoSync/include/newlib/sys/types.h \
+  c:/MoSync/include/newlib/machine/types.h \
+  c:/MoSync/include/newlib/sys/stdio.h \
+  c:/MoSync/include/newlib/stlport/stl/_construct.h \
+  c:/MoSync/include/newlib/stlport/stl/_alloc.c \
+  c:/MoSync/include/newlib/stlport/stl/_string_fwd.h \
+  c:/MoSync/include/newlib/stlport/stl/_iosfwd.h \
+  c:/MoSync/include/newlib/stlport/stl/char_traits.h \
+  c:/MoSync/include/newlib/stlport/stl/_cwchar.h \
+  c:/MoSync/include/newlib/stlport/../wchar.h \
+  c:/MoSync/include/newlib/stlport/stl/_mbstate_t.h \
+  c:/MoSync/include/newlib/stlport/stl/_uninitialized.h \
+  c:/MoSync/include/newlib/stlport/stl/_string_base.h \
+  c:/MoSync/include/newlib/stlport/stl/_string_npos.h \
+  c:/MoSync/include/newlib/stlport/stl/_string_operators.h \
+  c:/MoSync/include/newlib/stlport/stl/_string.c \
+  c:/MoSync/include/newlib/stlport/stl/_ctraits_fns.h \
+  c:/MoSync/include/newlib/stlport/stl/_function.h \
+  c:/MoSync/include/newlib/stlport/stl/_function_adaptors.h \
+  c:/MoSync/include/newlib/stlport/stl/_range_errors.h \
+  c:/MoSync/include/newlib/stlport/stl/_range_errors.c \
+  c:/MoSync/include/newlib/stlport/stl/_string_hash.h \
+  c:/MoSync/include/newlib/stlport/stl/_hash_fun.h \
+  c:/MoSync/include/newlib/stlport/stl/_epilog.h \
+  c:/MoSync/include/newlib/stlport/stl/_config_compat_post.h \
+  C:\MoSync\workspace\wawa1935\/engine.hpp c:/MoSync/include/maxtoa.h
